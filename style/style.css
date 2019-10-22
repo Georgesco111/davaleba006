@@ -1,0 +1,16 @@
+.logo{
+	width: 200px;
+	margin-left: 100px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.navbar{
+	display: inline-block;
+	float: right;
+ 	vertical-align: middle;
+
+}
+.navbar-li{
+	display: inline-block;
+
+}
